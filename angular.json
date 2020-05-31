@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Challenge04"
+    }
+  },
+  "defaultProject": "Challenge04",
+  "cli": {
+    "analytics": false
+  }
 }
